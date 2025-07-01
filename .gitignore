@@ -1,0 +1,11 @@
+# Ignore node_modules folder (big files)
+node_modules/
+
+# Ignore your secret environment settings
+.env
+
+# Ignore log files
+*.log
+
+# Optional: VS Code settings
+.vscode/
